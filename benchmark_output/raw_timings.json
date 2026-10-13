@@ -1,0 +1,1164 @@
+{
+  "part1": {
+    "pure_nvfp4_1K_4step": {
+      "model": "pure_nvfp4",
+      "res": "1K",
+      "steps": 4,
+      "warmup": 4.138,
+      "runs": [
+        4.176,
+        4.059,
+        4.066
+      ],
+      "mean": 4.1,
+      "std": 0.066,
+      "peak_vram_mb": 6797,
+      "peak_proc_ram_gb": 4.5,
+      "peak_sys_ram_gb": 14.94,
+      "image": "images/Part1_P1_Exam_3x4_1K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_1K_6step": {
+      "model": "pure_nvfp4",
+      "res": "1K",
+      "steps": 6,
+      "warmup": 0.0,
+      "runs": [
+        5.302,
+        5.39,
+        5.313
+      ],
+      "mean": 5.335,
+      "std": 0.048,
+      "peak_vram_mb": 6797,
+      "peak_proc_ram_gb": 4.49,
+      "peak_sys_ram_gb": 15.1,
+      "image": "images/Part1_P1_Exam_3x4_1K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_1K_8step": {
+      "model": "pure_nvfp4",
+      "res": "1K",
+      "steps": 8,
+      "warmup": 0.0,
+      "runs": [
+        6.503,
+        6.528,
+        6.598
+      ],
+      "mean": 6.543,
+      "std": 0.049,
+      "peak_vram_mb": 6797,
+      "peak_proc_ram_gb": 4.5,
+      "peak_sys_ram_gb": 14.85,
+      "image": "images/Part1_P1_Exam_3x4_1K_8step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_1.3K_4step": {
+      "model": "pure_nvfp4",
+      "res": "1.3K",
+      "steps": 4,
+      "warmup": 6.314,
+      "runs": [
+        6.306,
+        6.341,
+        6.413
+      ],
+      "mean": 6.353,
+      "std": 0.055,
+      "peak_vram_mb": 7277,
+      "peak_proc_ram_gb": 4.53,
+      "peak_sys_ram_gb": 14.85,
+      "image": "images/Part1_P1_Exam_3x4_1.3K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_1.3K_6step": {
+      "model": "pure_nvfp4",
+      "res": "1.3K",
+      "steps": 6,
+      "warmup": 0.0,
+      "runs": [
+        8.459,
+        8.443,
+        8.365
+      ],
+      "mean": 8.422,
+      "std": 0.05,
+      "peak_vram_mb": 7373,
+      "peak_proc_ram_gb": 4.53,
+      "peak_sys_ram_gb": 14.87,
+      "image": "images/Part1_P1_Exam_3x4_1.3K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_1.3K_8step": {
+      "model": "pure_nvfp4",
+      "res": "1.3K",
+      "steps": 8,
+      "warmup": 0.0,
+      "runs": [
+        10.459,
+        10.425,
+        10.454
+      ],
+      "mean": 10.446,
+      "std": 0.018,
+      "peak_vram_mb": 7277,
+      "peak_proc_ram_gb": 4.53,
+      "peak_sys_ram_gb": 14.84,
+      "image": "images/Part1_P1_Exam_3x4_1.3K_8step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_1.5K_4step": {
+      "model": "pure_nvfp4",
+      "res": "1.5K",
+      "steps": 4,
+      "warmup": 6.825,
+      "runs": [
+        6.806,
+        6.682,
+        6.811
+      ],
+      "mean": 6.766,
+      "std": 0.073,
+      "peak_vram_mb": 7021,
+      "peak_proc_ram_gb": 4.55,
+      "peak_sys_ram_gb": 14.78,
+      "image": "images/Part1_P1_Exam_3x4_1.5K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_1.5K_6step": {
+      "model": "pure_nvfp4",
+      "res": "1.5K",
+      "steps": 6,
+      "warmup": 0.0,
+      "runs": [
+        8.898,
+        9.042,
+        9.114
+      ],
+      "mean": 9.018,
+      "std": 0.11,
+      "peak_vram_mb": 7021,
+      "peak_proc_ram_gb": 4.55,
+      "peak_sys_ram_gb": 14.84,
+      "image": "images/Part1_P1_Exam_3x4_1.5K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_1.5K_8step": {
+      "model": "pure_nvfp4",
+      "res": "1.5K",
+      "steps": 8,
+      "warmup": 0.0,
+      "runs": [
+        11.322,
+        11.329,
+        11.332
+      ],
+      "mean": 11.328,
+      "std": 0.005,
+      "peak_vram_mb": 7021,
+      "peak_proc_ram_gb": 4.55,
+      "peak_sys_ram_gb": 14.88,
+      "image": "images/Part1_P1_Exam_3x4_1.5K_8step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_2K_4step": {
+      "model": "pure_nvfp4",
+      "res": "2K",
+      "steps": 4,
+      "warmup": 20.098,
+      "runs": [
+        19.724,
+        19.674,
+        19.558
+      ],
+      "mean": 19.652,
+      "std": 0.085,
+      "peak_vram_mb": 7501,
+      "peak_proc_ram_gb": 7.42,
+      "peak_sys_ram_gb": 17.74,
+      "image": "images/Part1_P1_Exam_3x4_2K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_2K_6step": {
+      "model": "pure_nvfp4",
+      "res": "2K",
+      "steps": 6,
+      "warmup": 0.0,
+      "runs": [
+        26.708,
+        26.946,
+        26.547
+      ],
+      "mean": 26.734,
+      "std": 0.201,
+      "peak_vram_mb": 7341,
+      "peak_proc_ram_gb": 7.53,
+      "peak_sys_ram_gb": 17.84,
+      "image": "images/Part1_P1_Exam_3x4_2K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_2K_8step": {
+      "model": "pure_nvfp4",
+      "res": "2K",
+      "steps": 8,
+      "warmup": 0.0,
+      "runs": [
+        34.063,
+        34.002,
+        34.083
+      ],
+      "mean": 34.049,
+      "std": 0.042,
+      "peak_vram_mb": 7341,
+      "peak_proc_ram_gb": 7.53,
+      "peak_sys_ram_gb": 17.93,
+      "image": "images/Part1_P1_Exam_3x4_2K_8step_pureNVFP4.webp"
+    },
+    "mixed_nvfp4_1K_4step": {
+      "model": "mixed_nvfp4",
+      "res": "1K",
+      "steps": 4,
+      "warmup": 5.051,
+      "runs": [
+        4.968,
+        5.03,
+        4.969
+      ],
+      "mean": 4.989,
+      "std": 0.036,
+      "peak_vram_mb": 7479,
+      "peak_proc_ram_gb": 5.19,
+      "peak_sys_ram_gb": 15.17,
+      "image": "images/Part1_P1_Exam_3x4_1K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_1K_6step": {
+      "model": "mixed_nvfp4",
+      "res": "1K",
+      "steps": 6,
+      "warmup": 0.0,
+      "runs": [
+        6.669,
+        6.389,
+        6.696
+      ],
+      "mean": 6.585,
+      "std": 0.17,
+      "peak_vram_mb": 7287,
+      "peak_proc_ram_gb": 5.2,
+      "peak_sys_ram_gb": 15.19,
+      "image": "images/Part1_P1_Exam_3x4_1K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_1K_8step": {
+      "model": "mixed_nvfp4",
+      "res": "1K",
+      "steps": 8,
+      "warmup": 0.0,
+      "runs": [
+        8.242,
+        8.237,
+        8.219
+      ],
+      "mean": 8.233,
+      "std": 0.012,
+      "peak_vram_mb": 7319,
+      "peak_proc_ram_gb": 5.2,
+      "peak_sys_ram_gb": 15.18,
+      "image": "images/Part1_P1_Exam_3x4_1K_8step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_1.3K_4step": {
+      "model": "mixed_nvfp4",
+      "res": "1.3K",
+      "steps": 4,
+      "warmup": 7.787,
+      "runs": [
+        7.862,
+        7.731,
+        7.733
+      ],
+      "mean": 7.775,
+      "std": 0.075,
+      "peak_vram_mb": 7479,
+      "peak_proc_ram_gb": 5.51,
+      "peak_sys_ram_gb": 15.58,
+      "image": "images/Part1_P1_Exam_3x4_1.3K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_1.3K_6step": {
+      "model": "mixed_nvfp4",
+      "res": "1.3K",
+      "steps": 6,
+      "warmup": 0.0,
+      "runs": [
+        10.355,
+        10.462,
+        10.437
+      ],
+      "mean": 10.418,
+      "std": 0.056,
+      "peak_vram_mb": 7415,
+      "peak_proc_ram_gb": 5.51,
+      "peak_sys_ram_gb": 15.56,
+      "image": "images/Part1_P1_Exam_3x4_1.3K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_1.3K_8step": {
+      "model": "mixed_nvfp4",
+      "res": "1.3K",
+      "steps": 8,
+      "warmup": 0.0,
+      "runs": [
+        13.127,
+        13.075,
+        12.961
+      ],
+      "mean": 13.054,
+      "std": 0.085,
+      "peak_vram_mb": 7607,
+      "peak_proc_ram_gb": 5.51,
+      "peak_sys_ram_gb": 15.58,
+      "image": "images/Part1_P1_Exam_3x4_1.3K_8step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_1.5K_4step": {
+      "model": "mixed_nvfp4",
+      "res": "1.5K",
+      "steps": 4,
+      "warmup": 8.368,
+      "runs": [
+        8.45,
+        8.34,
+        8.015
+      ],
+      "mean": 8.268,
+      "std": 0.226,
+      "peak_vram_mb": 7543,
+      "peak_proc_ram_gb": 5.89,
+      "peak_sys_ram_gb": 15.97,
+      "image": "images/Part1_P1_Exam_3x4_1.5K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_1.5K_6step": {
+      "model": "mixed_nvfp4",
+      "res": "1.5K",
+      "steps": 6,
+      "warmup": 0.0,
+      "runs": [
+        11.22,
+        11.23,
+        11.24
+      ],
+      "mean": 11.23,
+      "std": 0.01,
+      "peak_vram_mb": 7415,
+      "peak_proc_ram_gb": 5.89,
+      "peak_sys_ram_gb": 15.96,
+      "image": "images/Part1_P1_Exam_3x4_1.5K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_1.5K_8step": {
+      "model": "mixed_nvfp4",
+      "res": "1.5K",
+      "steps": 8,
+      "warmup": 0.0,
+      "runs": [
+        14.073,
+        14.103,
+        14.142
+      ],
+      "mean": 14.106,
+      "std": 0.035,
+      "peak_vram_mb": 7447,
+      "peak_proc_ram_gb": 5.89,
+      "peak_sys_ram_gb": 16.06,
+      "image": "images/Part1_P1_Exam_3x4_1.5K_8step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_2K_4step": {
+      "model": "mixed_nvfp4",
+      "res": "2K",
+      "steps": 4,
+      "warmup": 22.488,
+      "runs": [
+        22.971,
+        22.831,
+        22.777
+      ],
+      "mean": 22.86,
+      "std": 0.1,
+      "peak_vram_mb": 8055,
+      "peak_proc_ram_gb": 9.13,
+      "peak_sys_ram_gb": 19.18,
+      "image": "images/Part1_P1_Exam_3x4_2K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_2K_6step": {
+      "model": "mixed_nvfp4",
+      "res": "2K",
+      "steps": 6,
+      "warmup": 0.0,
+      "runs": [
+        31.435,
+        31.417,
+        31.72
+      ],
+      "mean": 31.524,
+      "std": 0.17,
+      "peak_vram_mb": 7991,
+      "peak_proc_ram_gb": 9.13,
+      "peak_sys_ram_gb": 19.17,
+      "image": "images/Part1_P1_Exam_3x4_2K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_2K_8step": {
+      "model": "mixed_nvfp4",
+      "res": "2K",
+      "steps": 8,
+      "warmup": 0.0,
+      "runs": [
+        40.135,
+        40.362,
+        40.345
+      ],
+      "mean": 40.281,
+      "std": 0.126,
+      "peak_vram_mb": 8055,
+      "peak_proc_ram_gb": 9.29,
+      "peak_sys_ram_gb": 19.3,
+      "image": "images/Part1_P1_Exam_3x4_2K_8step_mixedNVFP4.webp"
+    }
+  },
+  "part2": {
+    "pure_nvfp4_P2_Castle_1K_4step": {
+      "model": "pure_nvfp4",
+      "prompt": "P2_Castle",
+      "ratio": "16:9",
+      "res": "1K",
+      "steps": 4,
+      "sec": 8.374,
+      "peaks": {
+        "vram_mb": 7629,
+        "vram_gb": 7.45,
+        "proc_ram_gb": 7.43,
+        "sys_ram_gb": 17.81
+      },
+      "image": "images/Part2_P2_Castle_16x9_1K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P2_Castle_1K_6step": {
+      "model": "pure_nvfp4",
+      "prompt": "P2_Castle",
+      "ratio": "16:9",
+      "res": "1K",
+      "steps": 6,
+      "sec": 5.542,
+      "peaks": {
+        "vram_mb": 6669,
+        "vram_gb": 6.51,
+        "proc_ram_gb": 7.4,
+        "sys_ram_gb": 17.82
+      },
+      "image": "images/Part2_P2_Castle_16x9_1K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P2_Castle_2K_4step": {
+      "model": "pure_nvfp4",
+      "prompt": "P2_Castle",
+      "ratio": "16:9",
+      "res": "2K",
+      "steps": 4,
+      "sec": 20.039,
+      "peaks": {
+        "vram_mb": 8093,
+        "vram_gb": 7.9,
+        "proc_ram_gb": 7.7,
+        "sys_ram_gb": 18.1
+      },
+      "image": "images/Part2_P2_Castle_16x9_2K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P2_Castle_2K_6step": {
+      "model": "pure_nvfp4",
+      "prompt": "P2_Castle",
+      "ratio": "16:9",
+      "res": "2K",
+      "steps": 6,
+      "sec": 26.993,
+      "peaks": {
+        "vram_mb": 6861,
+        "vram_gb": 6.7,
+        "proc_ram_gb": 7.7,
+        "sys_ram_gb": 18.1
+      },
+      "image": "images/Part2_P2_Castle_16x9_2K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P3_AppUI_1K_4step": {
+      "model": "pure_nvfp4",
+      "prompt": "P3_AppUI",
+      "ratio": "9:16",
+      "res": "1K",
+      "steps": 4,
+      "sec": 7.47,
+      "peaks": {
+        "vram_mb": 7757,
+        "vram_gb": 7.58,
+        "proc_ram_gb": 7.61,
+        "sys_ram_gb": 18.01
+      },
+      "image": "images/Part2_P3_AppUI_9x16_1K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P3_AppUI_1K_6step": {
+      "model": "pure_nvfp4",
+      "prompt": "P3_AppUI",
+      "ratio": "9:16",
+      "res": "1K",
+      "steps": 6,
+      "sec": 5.337,
+      "peaks": {
+        "vram_mb": 6573,
+        "vram_gb": 6.42,
+        "proc_ram_gb": 7.57,
+        "sys_ram_gb": 18.01
+      },
+      "image": "images/Part2_P3_AppUI_9x16_1K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P3_AppUI_2K_4step": {
+      "model": "pure_nvfp4",
+      "prompt": "P3_AppUI",
+      "ratio": "9:16",
+      "res": "2K",
+      "steps": 4,
+      "sec": 19.395,
+      "peaks": {
+        "vram_mb": 7821,
+        "vram_gb": 7.64,
+        "proc_ram_gb": 7.7,
+        "sys_ram_gb": 18.08
+      },
+      "image": "images/Part2_P3_AppUI_9x16_2K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P3_AppUI_2K_6step": {
+      "model": "pure_nvfp4",
+      "prompt": "P3_AppUI",
+      "ratio": "9:16",
+      "res": "2K",
+      "steps": 6,
+      "sec": 26.204,
+      "peaks": {
+        "vram_mb": 7053,
+        "vram_gb": 6.89,
+        "proc_ram_gb": 7.7,
+        "sys_ram_gb": 18.11
+      },
+      "image": "images/Part2_P3_AppUI_9x16_2K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P4_Bride_1K_4step": {
+      "model": "pure_nvfp4",
+      "prompt": "P4_Bride",
+      "ratio": "3:4",
+      "res": "1K",
+      "steps": 4,
+      "sec": 6.765,
+      "peaks": {
+        "vram_mb": 7501,
+        "vram_gb": 7.33,
+        "proc_ram_gb": 7.61,
+        "sys_ram_gb": 18.01
+      },
+      "image": "images/Part2_P4_Bride_3x4_1K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P4_Bride_1K_6step": {
+      "model": "pure_nvfp4",
+      "prompt": "P4_Bride",
+      "ratio": "3:4",
+      "res": "1K",
+      "steps": 6,
+      "sec": 5.299,
+      "peaks": {
+        "vram_mb": 6957,
+        "vram_gb": 6.79,
+        "proc_ram_gb": 7.57,
+        "sys_ram_gb": 17.76
+      },
+      "image": "images/Part2_P4_Bride_3x4_1K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P4_Bride_2K_4step": {
+      "model": "pure_nvfp4",
+      "prompt": "P4_Bride",
+      "ratio": "3:4",
+      "res": "2K",
+      "steps": 4,
+      "sec": 19.559,
+      "peaks": {
+        "vram_mb": 7789,
+        "vram_gb": 7.61,
+        "proc_ram_gb": 7.7,
+        "sys_ram_gb": 17.86
+      },
+      "image": "images/Part2_P4_Bride_3x4_2K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P4_Bride_2K_6step": {
+      "model": "pure_nvfp4",
+      "prompt": "P4_Bride",
+      "ratio": "3:4",
+      "res": "2K",
+      "steps": 6,
+      "sec": 26.799,
+      "peaks": {
+        "vram_mb": 6893,
+        "vram_gb": 6.73,
+        "proc_ram_gb": 7.72,
+        "sys_ram_gb": 17.86
+      },
+      "image": "images/Part2_P4_Bride_3x4_2K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P5_Temple_1K_4step": {
+      "model": "pure_nvfp4",
+      "prompt": "P5_Temple",
+      "ratio": "3:4",
+      "res": "1K",
+      "steps": 4,
+      "sec": 6.384,
+      "peaks": {
+        "vram_mb": 7398,
+        "vram_gb": 7.22,
+        "proc_ram_gb": 7.6,
+        "sys_ram_gb": 17.74
+      },
+      "image": "images/Part2_P5_Temple_3x4_1K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P5_Temple_1K_6step": {
+      "model": "pure_nvfp4",
+      "prompt": "P5_Temple",
+      "ratio": "3:4",
+      "res": "1K",
+      "steps": 6,
+      "sec": 5.173,
+      "peaks": {
+        "vram_mb": 7053,
+        "vram_gb": 6.89,
+        "proc_ram_gb": 7.55,
+        "sys_ram_gb": 17.74
+      },
+      "image": "images/Part2_P5_Temple_3x4_1K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P5_Temple_2K_4step": {
+      "model": "pure_nvfp4",
+      "prompt": "P5_Temple",
+      "ratio": "3:4",
+      "res": "2K",
+      "steps": 4,
+      "sec": 19.205,
+      "peaks": {
+        "vram_mb": 7725,
+        "vram_gb": 7.54,
+        "proc_ram_gb": 7.69,
+        "sys_ram_gb": 17.86
+      },
+      "image": "images/Part2_P5_Temple_3x4_2K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P5_Temple_2K_6step": {
+      "model": "pure_nvfp4",
+      "prompt": "P5_Temple",
+      "ratio": "3:4",
+      "res": "2K",
+      "steps": 6,
+      "sec": 26.31,
+      "peaks": {
+        "vram_mb": 6541,
+        "vram_gb": 6.39,
+        "proc_ram_gb": 7.69,
+        "sys_ram_gb": 17.86
+      },
+      "image": "images/Part2_P5_Temple_3x4_2K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P6_Monster_1K_4step": {
+      "model": "pure_nvfp4",
+      "prompt": "P6_Monster",
+      "ratio": "1:1",
+      "res": "1K",
+      "steps": 4,
+      "sec": 6.509,
+      "peaks": {
+        "vram_mb": 7437,
+        "vram_gb": 7.26,
+        "proc_ram_gb": 7.6,
+        "sys_ram_gb": 17.76
+      },
+      "image": "images/Part2_P6_Monster_1x1_1K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P6_Monster_1K_6step": {
+      "model": "pure_nvfp4",
+      "prompt": "P6_Monster",
+      "ratio": "1:1",
+      "res": "1K",
+      "steps": 6,
+      "sec": 5.122,
+      "peaks": {
+        "vram_mb": 7149,
+        "vram_gb": 6.98,
+        "proc_ram_gb": 7.57,
+        "sys_ram_gb": 17.72
+      },
+      "image": "images/Part2_P6_Monster_1x1_1K_6step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P6_Monster_2K_4step": {
+      "model": "pure_nvfp4",
+      "prompt": "P6_Monster",
+      "ratio": "1:1",
+      "res": "2K",
+      "steps": 4,
+      "sec": 19.002,
+      "peaks": {
+        "vram_mb": 7949,
+        "vram_gb": 7.76,
+        "proc_ram_gb": 7.7,
+        "sys_ram_gb": 17.83
+      },
+      "image": "images/Part2_P6_Monster_1x1_2K_4step_pureNVFP4.webp"
+    },
+    "pure_nvfp4_P6_Monster_2K_6step": {
+      "model": "pure_nvfp4",
+      "prompt": "P6_Monster",
+      "ratio": "1:1",
+      "res": "2K",
+      "steps": 6,
+      "sec": 25.472,
+      "peaks": {
+        "vram_mb": 7309,
+        "vram_gb": 7.14,
+        "proc_ram_gb": 7.69,
+        "sys_ram_gb": 17.82
+      },
+      "image": "images/Part2_P6_Monster_1x1_2K_6step_pureNVFP4.webp"
+    },
+    "mixed_nvfp4_P2_Castle_1K_4step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P2_Castle",
+      "ratio": "16:9",
+      "res": "1K",
+      "steps": 4,
+      "sec": 8.783,
+      "peaks": {
+        "vram_mb": 7831,
+        "vram_gb": 7.65,
+        "proc_ram_gb": 9.17,
+        "sys_ram_gb": 19.15
+      },
+      "image": "images/Part2_P2_Castle_16x9_1K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P2_Castle_1K_6step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P2_Castle",
+      "ratio": "16:9",
+      "res": "1K",
+      "steps": 6,
+      "sec": 6.629,
+      "peaks": {
+        "vram_mb": 7479,
+        "vram_gb": 7.3,
+        "proc_ram_gb": 9.14,
+        "sys_ram_gb": 19.13
+      },
+      "image": "images/Part2_P2_Castle_16x9_1K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P2_Castle_2K_4step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P2_Castle",
+      "ratio": "16:9",
+      "res": "2K",
+      "steps": 4,
+      "sec": 22.995,
+      "peaks": {
+        "vram_mb": 8023,
+        "vram_gb": 7.83,
+        "proc_ram_gb": 9.65,
+        "sys_ram_gb": 19.62
+      },
+      "image": "images/Part2_P2_Castle_16x9_2K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P2_Castle_2K_6step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P2_Castle",
+      "ratio": "16:9",
+      "res": "2K",
+      "steps": 6,
+      "sec": 31.767,
+      "peaks": {
+        "vram_mb": 7543,
+        "vram_gb": 7.37,
+        "proc_ram_gb": 9.65,
+        "sys_ram_gb": 19.62
+      },
+      "image": "images/Part2_P2_Castle_16x9_2K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P3_AppUI_1K_4step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P3_AppUI",
+      "ratio": "9:16",
+      "res": "1K",
+      "steps": 4,
+      "sec": 8.203,
+      "peaks": {
+        "vram_mb": 7543,
+        "vram_gb": 7.37,
+        "proc_ram_gb": 9.55,
+        "sys_ram_gb": 19.52
+      },
+      "image": "images/Part2_P3_AppUI_9x16_1K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P3_AppUI_1K_6step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P3_AppUI",
+      "ratio": "9:16",
+      "res": "1K",
+      "steps": 6,
+      "sec": 6.7,
+      "peaks": {
+        "vram_mb": 7351,
+        "vram_gb": 7.18,
+        "proc_ram_gb": 9.52,
+        "sys_ram_gb": 19.54
+      },
+      "image": "images/Part2_P3_AppUI_9x16_1K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P3_AppUI_2K_4step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P3_AppUI",
+      "ratio": "9:16",
+      "res": "2K",
+      "steps": 4,
+      "sec": 22.353,
+      "peaks": {
+        "vram_mb": 7895,
+        "vram_gb": 7.71,
+        "proc_ram_gb": 9.64,
+        "sys_ram_gb": 19.64
+      },
+      "image": "images/Part2_P3_AppUI_9x16_2K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P3_AppUI_2K_6step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P3_AppUI",
+      "ratio": "9:16",
+      "res": "2K",
+      "steps": 6,
+      "sec": 31.144,
+      "peaks": {
+        "vram_mb": 7319,
+        "vram_gb": 7.15,
+        "proc_ram_gb": 9.65,
+        "sys_ram_gb": 19.65
+      },
+      "image": "images/Part2_P3_AppUI_9x16_2K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P4_Bride_1K_4step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P4_Bride",
+      "ratio": "3:4",
+      "res": "1K",
+      "steps": 4,
+      "sec": 7.295,
+      "peaks": {
+        "vram_mb": 7543,
+        "vram_gb": 7.37,
+        "proc_ram_gb": 9.55,
+        "sys_ram_gb": 19.56
+      },
+      "image": "images/Part2_P4_Bride_3x4_1K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P4_Bride_1K_6step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P4_Bride",
+      "ratio": "3:4",
+      "res": "1K",
+      "steps": 6,
+      "sec": 6.538,
+      "peaks": {
+        "vram_mb": 7287,
+        "vram_gb": 7.12,
+        "proc_ram_gb": 9.51,
+        "sys_ram_gb": 19.54
+      },
+      "image": "images/Part2_P4_Bride_3x4_1K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P4_Bride_2K_4step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P4_Bride",
+      "ratio": "3:4",
+      "res": "2K",
+      "steps": 4,
+      "sec": 22.766,
+      "peaks": {
+        "vram_mb": 7799,
+        "vram_gb": 7.62,
+        "proc_ram_gb": 9.64,
+        "sys_ram_gb": 19.65
+      },
+      "image": "images/Part2_P4_Bride_3x4_2K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P4_Bride_2K_6step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P4_Bride",
+      "ratio": "3:4",
+      "res": "2K",
+      "steps": 6,
+      "sec": 31.529,
+      "peaks": {
+        "vram_mb": 7447,
+        "vram_gb": 7.27,
+        "proc_ram_gb": 9.64,
+        "sys_ram_gb": 19.64
+      },
+      "image": "images/Part2_P4_Bride_3x4_2K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P5_Temple_1K_4step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P5_Temple",
+      "ratio": "3:4",
+      "res": "1K",
+      "steps": 4,
+      "sec": 7.17,
+      "peaks": {
+        "vram_mb": 7575,
+        "vram_gb": 7.4,
+        "proc_ram_gb": 9.54,
+        "sys_ram_gb": 19.53
+      },
+      "image": "images/Part2_P5_Temple_3x4_1K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P5_Temple_1K_6step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P5_Temple",
+      "ratio": "3:4",
+      "res": "1K",
+      "steps": 6,
+      "sec": 6.411,
+      "peaks": {
+        "vram_mb": 7287,
+        "vram_gb": 7.12,
+        "proc_ram_gb": 9.49,
+        "sys_ram_gb": 19.52
+      },
+      "image": "images/Part2_P5_Temple_3x4_1K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P5_Temple_2K_4step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P5_Temple",
+      "ratio": "3:4",
+      "res": "2K",
+      "steps": 4,
+      "sec": 22.512,
+      "peaks": {
+        "vram_mb": 7415,
+        "vram_gb": 7.24,
+        "proc_ram_gb": 9.64,
+        "sys_ram_gb": 19.64
+      },
+      "image": "images/Part2_P5_Temple_3x4_2K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P5_Temple_2K_6step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P5_Temple",
+      "ratio": "3:4",
+      "res": "2K",
+      "steps": 6,
+      "sec": 31.256,
+      "peaks": {
+        "vram_mb": 7447,
+        "vram_gb": 7.27,
+        "proc_ram_gb": 9.63,
+        "sys_ram_gb": 19.62
+      },
+      "image": "images/Part2_P5_Temple_3x4_2K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P6_Monster_1K_4step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P6_Monster",
+      "ratio": "1:1",
+      "res": "1K",
+      "steps": 4,
+      "sec": 7.206,
+      "peaks": {
+        "vram_mb": 7575,
+        "vram_gb": 7.4,
+        "proc_ram_gb": 9.54,
+        "sys_ram_gb": 19.53
+      },
+      "image": "images/Part2_P6_Monster_1x1_1K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P6_Monster_1K_6step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P6_Monster",
+      "ratio": "1:1",
+      "res": "1K",
+      "steps": 6,
+      "sec": 6.355,
+      "peaks": {
+        "vram_mb": 7415,
+        "vram_gb": 7.24,
+        "proc_ram_gb": 9.5,
+        "sys_ram_gb": 19.53
+      },
+      "image": "images/Part2_P6_Monster_1x1_1K_6step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P6_Monster_2K_4step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P6_Monster",
+      "ratio": "1:1",
+      "res": "2K",
+      "steps": 4,
+      "sec": 21.794,
+      "peaks": {
+        "vram_mb": 7671,
+        "vram_gb": 7.49,
+        "proc_ram_gb": 9.64,
+        "sys_ram_gb": 19.64
+      },
+      "image": "images/Part2_P6_Monster_1x1_2K_4step_mixedNVFP4.webp"
+    },
+    "mixed_nvfp4_P6_Monster_2K_6step": {
+      "model": "mixed_nvfp4",
+      "prompt": "P6_Monster",
+      "ratio": "1:1",
+      "res": "2K",
+      "steps": 6,
+      "sec": 30.151,
+      "peaks": {
+        "vram_mb": 7351,
+        "vram_gb": 7.18,
+        "proc_ram_gb": 9.63,
+        "sys_ram_gb": 19.63
+      },
+      "image": "images/Part2_P6_Monster_1x1_2K_6step_mixedNVFP4.webp"
+    }
+  },
+  "part3": {
+    "PE_P5_Temple_1.3K_6step_PE_Off": {
+      "category": "Prompt Enhance 扩写对比",
+      "prompt_title": "P5: 祈年殿拆解科普卡 (短提示词)",
+      "ratio": "3:4",
+      "res": "1.3K",
+      "steps": 6,
+      "toggle": "prompt_enhance=False",
+      "sec": 10.63,
+      "peaks": {
+        "vram_mb": 7526,
+        "vram_gb": 7.35,
+        "proc_ram_gb": 7.6,
+        "sys_ram_gb": 17.72
+      },
+      "image": "images/Part3_P5_Temple_3x4_1.3K_6step_PE_Off_pureNVFP4.webp"
+    },
+    "PE_P5_Temple_1.3K_6step_PE_On": {
+      "category": "Prompt Enhance 扩写对比",
+      "prompt_title": "P5: 祈年殿拆解科普卡 (短提示词)",
+      "ratio": "3:4",
+      "res": "1.3K",
+      "steps": 6,
+      "toggle": "prompt_enhance=True",
+      "sec": 15.44,
+      "peaks": {
+        "vram_mb": 7568,
+        "vram_gb": 7.39,
+        "proc_ram_gb": 7.8,
+        "sys_ram_gb": 17.92
+      },
+      "image": "images/Part3_P5_Temple_3x4_1.3K_6step_PE_On_pureNVFP4.webp"
+    },
+    "PE_P6_Monster_1.3K_6step_PE_Off": {
+      "category": "Prompt Enhance 扩写对比",
+      "prompt_title": "P6: 巨兽对决 3DCG 故事板 (短提示词)",
+      "ratio": "1:1",
+      "res": "1.3K",
+      "steps": 6,
+      "toggle": "prompt_enhance=False",
+      "sec": 11.466,
+      "peaks": {
+        "vram_mb": 7767,
+        "vram_gb": 7.58,
+        "proc_ram_gb": 7.8,
+        "sys_ram_gb": 17.9
+      },
+      "image": "images/Part3_P6_Monster_1x1_1.3K_6step_PE_Off_pureNVFP4.webp"
+    },
+    "PE_P6_Monster_1.3K_6step_PE_On": {
+      "category": "Prompt Enhance 扩写对比",
+      "prompt_title": "P6: 巨兽对决 3DCG 故事板 (短提示词)",
+      "ratio": "1:1",
+      "res": "1.3K",
+      "steps": 6,
+      "toggle": "prompt_enhance=True",
+      "sec": 16.349,
+      "peaks": {
+        "vram_mb": 7639,
+        "vram_gb": 7.46,
+        "proc_ram_gb": 7.82,
+        "sys_ram_gb": 17.93
+      },
+      "image": "images/Part3_P6_Monster_1x1_1.3K_6step_PE_On_pureNVFP4.webp"
+    },
+    "FBC_P1_Exam_2K_6step_FBCache_Off": {
+      "category": "FBCache 一阶特征缓存对比",
+      "prompt_title": "P1: 2026 数学高考试卷",
+      "ratio": "3:4",
+      "res": "2K",
+      "steps": 6,
+      "toggle": "fbcache=False",
+      "sec": 33.484,
+      "peaks": {
+        "vram_mb": 8055,
+        "vram_gb": 7.87,
+        "proc_ram_gb": 8.43,
+        "sys_ram_gb": 18.61
+      },
+      "image": "images/Part3_P1_Exam_3x4_2K_6step_FBCache_Off_pureNVFP4.webp"
+    },
+    "FBC_P1_Exam_2K_6step_FBCache_On": {
+      "category": "FBCache 一阶特征缓存对比",
+      "prompt_title": "P1: 2026 数学高考试卷",
+      "ratio": "3:4",
+      "res": "2K",
+      "steps": 6,
+      "toggle": "fbcache=True",
+      "sec": 23.764,
+      "peaks": {
+        "vram_mb": 7575,
+        "vram_gb": 7.4,
+        "proc_ram_gb": 8.51,
+        "sys_ram_gb": 18.66
+      },
+      "image": "images/Part3_P1_Exam_3x4_2K_6step_FBCache_On_pureNVFP4.webp"
+    },
+    "FBC_P2_Castle_2K_6step_FBCache_Off": {
+      "category": "FBCache 一阶特征缓存对比",
+      "prompt_title": "P2: 奥拉维城堡建筑图板",
+      "ratio": "16:9",
+      "res": "2K",
+      "steps": 6,
+      "toggle": "fbcache=False",
+      "sec": 30.023,
+      "peaks": {
+        "vram_mb": 7952,
+        "vram_gb": 7.77,
+        "proc_ram_gb": 8.42,
+        "sys_ram_gb": 18.57
+      },
+      "image": "images/Part3_P2_Castle_16x9_2K_6step_FBCache_Off_pureNVFP4.webp"
+    },
+    "FBC_P2_Castle_2K_6step_FBCache_On": {
+      "category": "FBCache 一阶特征缓存对比",
+      "prompt_title": "P2: 奥拉维城堡建筑图板",
+      "ratio": "16:9",
+      "res": "2K",
+      "steps": 6,
+      "toggle": "fbcache=True",
+      "sec": 23.73,
+      "peaks": {
+        "vram_mb": 7191,
+        "vram_gb": 7.02,
+        "proc_ram_gb": 8.53,
+        "sys_ram_gb": 18.67
+      },
+      "image": "images/Part3_P2_Castle_16x9_2K_6step_FBCache_On_pureNVFP4.webp"
+    }
+  },
+  "cold_start": {
+    "pure_nvfp4": {
+      "sec": 12.148,
+      "peaks": {
+        "vram_mb": 7533,
+        "vram_gb": 7.36,
+        "proc_ram_gb": 4.48,
+        "sys_ram_gb": 14.89
+      }
+    },
+    "mixed_nvfp4": {
+      "sec": 9.308,
+      "peaks": {
+        "vram_mb": 7600,
+        "vram_gb": 7.42,
+        "proc_ram_gb": 8.32,
+        "sys_ram_gb": 18.46
+      }
+    }
+  }
+}

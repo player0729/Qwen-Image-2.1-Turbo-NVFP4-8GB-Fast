@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-QwenImage2.1-1k-5s-2k-28s-5060-8g
+Qwen-Image-2.1-Turbo-NVFP4-8GB-Fast
 Zero-intrusion runtime monkey-patching entry point when installed in ComfyUI/custom_nodes/.
 Automatically applies:
 1. Blackwell (sm_120) comfy_aimdo VBAR fault synchronization & ModelPatcher stream sync
