@@ -4,6 +4,16 @@
 
 ---
 
+## ⚡ 极速实测展示：RTX 5060 笔记本 (8GB 显存) · 1K 分辨率约 4 秒出图
+
+在纯 NVFP4 (`4.00GB`) + Comfy Kitchen INT8 注意力 + Prefix KV 缓存优化下，RTX 5060 Laptop (8GB VRAM) 实测 1K 分辨率 4 步仅需 **3.97s ~ 4.10s**，6 步仅需 **5.33s**：
+
+| ComfyUI 原生队列实测耗时 (3.97s ~ 4.09s) | 4秒样张：白发动漫少女立绘 (`3.97s`) | 4秒样张：3D 光影几何体 (`4.02s`) | 4秒样张：高考数学卷 (`4.10s`) |
+| :---: | :---: | :---: | :---: |
+| <img src="benchmark_output/images/comfyui_4s_queue_timing.png" width="220"> | <img src="benchmark_output/images/sample_4s_anime_girl.webp" width="230"> | <img src="benchmark_output/images/sample_4s_geometry_3d.webp" width="230"> | <img src="benchmark_output/images/Part1_P1_Exam_3x4_1K_4step_pureNVFP4.webp" width="230"> |
+
+---
+
 ## 1. 硬件与模型配置参数
 
 ### 硬件与软件环境
