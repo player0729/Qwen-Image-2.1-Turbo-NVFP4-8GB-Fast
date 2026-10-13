@@ -1,0 +1,16 @@
+[project]
+name = "qwenimage2.1-1k-5s-2k-28s-5060-8g"
+description = "8GB VRAM Fast Acceleration & Zero-Garbled-Text Solution for Qwen-Image 2.1 Turbo in ComfyUI (In-place 0-VRAM PE, Zero-Retention FBCache, Adaptive Lock-Text Sigmas, Blackwell VBAR Sync Fix)"
+version = "1.0.0"
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/YOUR_USERNAME/QwenImage2.1-1k-5s-2k-28s-5060-8g"
+
+[tool.comfy]
+PublisherId = "yg"
+DisplayName = "QwenImage2.1-1k-5s-2k-28s-5060-8g"
+Icon = ""
